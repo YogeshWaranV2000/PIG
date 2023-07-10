@@ -1,0 +1,141 @@
+.container{
+    border: 4px solid black;
+    height: 100px;
+    width: 100px;
+    background-color: yellow; 
+    margin-left: px;
+    padding: 100px;
+    border-radius: 100%;
+    box-shadow: 5px 5px 5px;
+}
+.Reye{
+    border:4px solid  black;
+    height: 45px;
+    width: 40px;
+    border-radius: 200%;
+    background-color: white;
+    position: fixed;
+    top:90px;
+    left: 680px;px;
+}
+.Leye{
+    border:4px solid black;
+    height: 45px;
+    width: 40px;
+    border-radius: 200%;
+    background-color: white;
+    position: fixed;
+    left: 790px;
+    top:90px;
+}
+.mouth{
+    border: 3px solid black;
+    height: 40px;
+    width: 108px;
+    border-radius: 0px 0px 40px 40px;
+    background-color: rgb(87, 20, 20);
+    position: fixed;
+    top: 215px;
+    overflow: hidden;
+    right: 698px;px;
+}
+.tongue{
+    border: 1px solid palevioletred;
+    height: 38px;
+    width:  60px;
+    border-radius:50px 50px 50px 50px;
+    background-color:rgb(255, 0, 0);
+    position:absolute;
+    right: 20px;
+    top: 24px;
+}
+.teeth{
+    border: 1px solid black;
+    height: 12px;
+    width:  120px;
+    background-color:white;
+    position:absolute;
+    right: 2px;
+    top: px;
+}
+.Rr{
+    border:2px  black;
+    height: 36px;
+    width: 32px;
+    border-radius: 100%;
+    background-color: black;
+    position: fixed;
+    top:97px;
+    left:680px;
+}
+.Lr{
+    border:2px  black;
+    height: 36px;
+    width: 32px;
+    border-radius: 100%;
+    background-color: black;
+    position: fixed;
+    top:97px;
+    left:790px;
+    right: 1775px;
+}
+.r{
+    
+    height: 12px;
+    width:  4px;
+    
+    background-color:rgb(12, 12, 12);
+    position:absolute;
+    margin-left: 20px;
+
+}
+.r2{
+    
+    height: 12px;
+    width:  4px;
+    
+    background-color:rgb(12, 12, 12);
+    position:absolute;
+    margin-left: 40px;
+
+}
+.r3{
+    
+    height: 12px;
+    width:  4px;
+    
+    background-color:rgb(8, 8, 8);
+    position:absolute;
+    margin-left: 60px;
+
+}
+.r4{
+    
+    height: 12px;
+    width:  4px;
+    
+    background-color:rgb(8, 8, 8);
+    position:absolute;
+    margin-left: 80px;
+
+}
+.r5{
+    
+    height: 12px;
+    width:  4px;
+    
+    background-color:rgb(8, 8, 8);
+    position:absolute;
+    margin-left: 100px;
+
+}
+.god{
+    border:4px solid  black;
+    height: 25px;
+    width:  24px;
+    border-radius: 100px 100px 100px 100px;
+    background-color:brown;
+    position:absolute;
+    margin-left: 40px;
+    top:160px;
+}
