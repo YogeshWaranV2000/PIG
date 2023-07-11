@@ -9,7 +9,7 @@
     
 }
 .ear2{
-    border:1px solid black;
+    border:1px solid rgb(194, 31, 31);
     height:100px;
     width:40px;
     background-color:rgb(109, 109, 109);
@@ -21,7 +21,7 @@
     border: 1px solid black;
     height:150px;
     width:150px;
-    background-color:rgb(74, 73, 73);
+    background-color:rgb(15, 14, 14);
     border-radius:100%;
     position:absolute;
     left:118px;
